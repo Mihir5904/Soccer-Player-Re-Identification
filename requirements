@@ -1,0 +1,10 @@
+Python 3
+
+ultralytics
+YOLO
+cv2
+threading
+numpy
+colorsys
+deep_sort_realtime.deepsort_tracker 
+DeepSort
