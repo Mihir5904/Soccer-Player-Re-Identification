@@ -42,7 +42,7 @@ implements a real-time player tracking system using the YOLOv11 object detection
 
 ---
 
-## 🚧 Challenges Encountered
+## Challenges Encountered
 
 - **Field Color Interference:**  
   The green pitch often interfered with jersey color detection. We resolved this by applying strict HSV thresholds for field masking.
